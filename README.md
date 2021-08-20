@@ -8,6 +8,8 @@ This device aims aid visually impaired individuals to practice or preform mathem
       - Bill of Materials
       - ChangeLog
       - Maker Checklist (use this if you are a maker to see the process of the build)
+      - 3D Printed Braille Label STL's
+      - Photos and a video of the device in use 
       
 
 
