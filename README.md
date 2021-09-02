@@ -15,11 +15,11 @@ This device aims aid visually impaired individuals to practice or preform mathem
 
 # Overview
 
-This device uses a Makey Makey Classic, 3D printed Braille, and a scratch project to create a calculator that allows users to do simple addition, subtraction, multiplication, or division with audio feedback. The calculator will allow the user to input a mathematical expression, allow the user a chance to guess what the answer is, and finally give the correct answer and compare it to the user inputted answer and verify audibly if it was correct or incorrect. This device can be used with any PC, tablet, phone, or device with a USB (type-A) port and internet connection.
+The Braille Calculator uses a Makey Makey Classic, 3D printed Braille, and a scratch project to allow users to do simple addition, subtraction, multiplication, or division with audio feedback. The calculator allows the user to input a mathematical expression, guess the answer, and finally give the correct answer to compare with the user inputted answer and verify audibly if it was correct or incorrect. This device can be used with any PC, tablet, phone, or device with a USB (type-A) port, and internet connection.
 
 # Usage
 
-This device is intended for individuals that are visually impaired in an education setting to practice math. The user is able to interact with an online calculator project created in Scratch that audibly interacts with their inputs using the brass contact points. The calculator includes 3D printed Braille labels of what each contact point represents. The calculator is capable of performing one multiplication, division, addition, and subtraction action at a time. This calculator is compatible with any device that has a USB (type-A) port and an internet connection.
+This device is intended for individuals that are visually impaired in an educational setting to practice math. The user is able to interact with an online calculator project created in Scratch that audibly interacts with their inputs using the brass contact points. The calculator includes 3D printed Braille labels of what each contact point represents. The calculator is capable of performing one multiplication, division, addition, or subtraction action at a time. This calculator is compatible with any device that has a USB (type-A) port and an internet connection.
 
 An example of the usage of this device is in the downloadable section of this page.
 
