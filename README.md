@@ -1,4 +1,4 @@
-# Braille-Calculator
+# Braille Calculator
 This device aims aid visually impaired individuals to practice or preform mathematic operations by use of audible feedback and Braille labels.
 
 # Documentation above includes: 
@@ -53,3 +53,7 @@ Device requires 19 3D printed Braille labels. These are quick and take minimal f
 # Attribution
 
 Through our partnership with Makey Makey, Katie Butzu, and Mark Lyons, workshops were hosted to help disability professionals learn how they could gamify their work. Then we challenged these disability professionals to create their own assistive technology for clients! This project was created by Tracy Zhang and modified by the MMC team to include 3D printed Braille.
+
+<!-- ABOUT MMC START -->
+
+<!-- ABOUT MMC END -->
